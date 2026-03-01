@@ -16,7 +16,7 @@ export default function Contact() {
                 <MapPin size={20} />
               </div>
               <p className="text-xs font-bold uppercase tracking-widest text-slate-400 mb-2">Dirección</p>
-              <p className="text-sm text-slate-600">123 Savy St, Suite 400<br />Miami, FL 33101</p>
+              <p className="text-sm text-slate-600">13495 Bancroft Ave<br />San leandro, CA 94578</p>
             </div>
 
             <div className="flex flex-col items-center text-center">
@@ -24,7 +24,7 @@ export default function Contact() {
                 <Mail size={20} />
               </div>
               <p className="text-xs font-bold uppercase tracking-widest text-slate-400 mb-2">Email</p>
-              <p className="text-sm text-slate-600 font-bold">contacto@savyhometech.com</p>
+              <p className="text-sm text-slate-600 font-bold">support@savyhometech.com</p>
             </div>
 
             <div className="flex flex-col items-center text-center">
