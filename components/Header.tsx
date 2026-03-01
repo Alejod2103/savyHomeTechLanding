@@ -16,7 +16,7 @@ export default function Header() {
         <div className="flex items-center gap-4">
           <a href="tel:8001234567" className="hidden sm:flex items-center gap-2 bg-violet-600 hover:bg-violet-700 text-white px-5 py-2 rounded-full font-bold transition-all shadow-sm">
             <Phone size={18} />
-            (800) 123-4567
+            (815) 384-9947
           </a>
           <button className="md:hidden p-2 text-slate-600">
             <Menu size={24} />
