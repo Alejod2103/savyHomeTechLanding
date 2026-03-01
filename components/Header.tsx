@@ -18,9 +18,6 @@ export default function Header() {
             <Phone size={18} />
             (815) 384-9947
           </a>
-          <button className="md:hidden p-2 text-slate-600">
-            <Menu size={24} />
-          </button>
         </div>
       </div>
     </header>
